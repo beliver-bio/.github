@@ -24,7 +24,7 @@ While our core technology development happens internally, **we strongly support 
 
 ## ⚗️ Our Science
 
-Some publications powering the BeLiver technology:
+The science powering the BeLiver technology:
 
 - [Proteomic profiling of advanced hepatocellular carcinoma identifies predictive signatures of response to treatments](https://www.biorxiv.org/content/10.1101/2025.01.03.631224v1)
 - [Spatial characterization of β-catenin-mutated hepatocellular adenoma subtypes by proteomic profiling of the tumor rim](https://www.jhep-reports.eu/article/S2589-5559(23)00244-6/fulltext)
