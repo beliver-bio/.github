@@ -4,7 +4,9 @@
 
 BeLiver is a **French biotech startup** 🇫🇷 based in Bordeaux, spun out from leading research institutions (CHU Bordeaux, INSERM/CNRS unit BRIC).
 
-🔬 **Our Mission:** To revolutionize cancer care through **personalized medicine**. We are initially focused on **Hepatocellular Carcinoma (HCC)**, aiming to significantly improve treatment outcomes by addressing the challenge of predicting patient-specific responses to therapies. Our ultimate goal is to empower oncologists with insightful tools 💡 for more effective and personalized therapeutic decisions.
+## 🔬 Our Mission
+
+To revolutionize cancer care through **personalized medicine**. We are initially focused on **Hepatocellular Carcinoma (HCC)**, aiming to significantly improve treatment outcomes by addressing the challenge of predicting patient-specific responses to therapies. Our ultimate goal is to empower oncologists with insightful tools 💡 for more effective and personalized therapeutic decisions.
 
 ## 📊 Our Approach
 
