@@ -43,8 +43,8 @@ Accurately identifying the specific subtype of benign liver tumors (HCAs) is imp
 *   **Visit our official website:** [https://www.beliver.fr](https://www.beliver.fr)
 *   💼 **[Follow us on LinkedIn](https://www.linkedin.com/company/beliverfr/)**
 *   📧 **Contact Us:** For inquiries, please use the contact form on [our website](https://www.beliver.fr) or reach out on [LinkedIn](https://www.linkedin.com/company/beliverfr/).
-*   🔵 [BlueSky](https://bsky.app/profile/beliver-bio.bsky.social)
-*   🟠 [HuggingFace](https://huggingface.co/beliver-bio)
+*   🔵 [@beliver-bio.bsky.social](https://bsky.app/profile/beliver-bio.bsky.social)
+*   🟠 [@beliver-bio](https://huggingface.co/beliver-bio)
 
 ---
 
