@@ -14,5 +14,4 @@ Spun out from CHU Bordeaux and INSERM/CNRS (BRIC unit).
 
 - [beliver.fr](https://www.beliver.fr)
 - [LinkedIn](https://www.linkedin.com/company/beliverfr/)
-- [BlueSky](https://bsky.app/profile/beliver-bio.bsky.social)
 - [Hugging Face](https://huggingface.co/beliver-bio)
