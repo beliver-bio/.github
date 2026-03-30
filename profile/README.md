@@ -1,6 +1,6 @@
 # BeLiver
 
-French biotech startup based in Bordeaux, developing AI-powered proteomic diagnostic tests to guide cancer treatment decisions.
+French medtech startup based in Bordeaux, developing AI-powered proteomic diagnostic tests to guide cancer treatment decisions.
 
 Our first product targets advanced hepatocellular carcinoma (HCC), predicting individual patient response to available therapies.
 
